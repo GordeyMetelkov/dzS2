@@ -1,0 +1,15 @@
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\bin\Debug\net6.0\dopzadacha2.exe
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\bin\Debug\net6.0\dopzadacha2.deps.json
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\bin\Debug\net6.0\dopzadacha2.runtimeconfig.json
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\bin\Debug\net6.0\dopzadacha2.dll
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\bin\Debug\net6.0\dopzadacha2.pdb
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\obj\Debug\net6.0\dopzadacha2.csproj.AssemblyReference.cache
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\obj\Debug\net6.0\dopzadacha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\obj\Debug\net6.0\dopzadacha2.AssemblyInfoInputs.cache
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\obj\Debug\net6.0\dopzadacha2.AssemblyInfo.cs
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\obj\Debug\net6.0\dopzadacha2.csproj.CoreCompileInputs.cache
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\obj\Debug\net6.0\dopzadacha2.dll
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\obj\Debug\net6.0\refint\dopzadacha2.dll
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\obj\Debug\net6.0\dopzadacha2.pdb
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\obj\Debug\net6.0\dopzadacha2.genruntimeconfig.cache
+C:\Users\gorde\OneDrive\Рабочий стол\DZ_S2\dopzadacha2\obj\Debug\net6.0\ref\dopzadacha2.dll
